@@ -1,3 +1,4 @@
 esp32cam_wifi_test/secrets.h
 esp32cam_wifi_test/.DS_Store
 .DS_Store
+esp32cam_stream/secrets.h
